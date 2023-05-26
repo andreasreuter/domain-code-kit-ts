@@ -1,8 +1,12 @@
 {
   "name": "domain-code-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Andreas Reuter <andireuter86@gmail.com> (https://www.andireuter.com)",
   "license": "MIT",
+  "keywords": [
+    "domain driven design",
+    "ddd"
+  ],
   "packageManager": "yarn@3.5.0",
   "main": "build/index.js",
   "types": "build/index.d.ts",
