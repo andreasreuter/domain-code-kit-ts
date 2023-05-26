@@ -1,4 +1,8 @@
 {
+  "name": "domain-code-kit",
+  "version": "1.0.0",
+  "author": "Andreas Reuter <andireuter86@gmail.com> (https://www.andireuter.com)",
+  "license": "MIT",
   "packageManager": "yarn@3.5.0",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -7,15 +11,17 @@
     "dev": "yarn run nodemon src/index.ts"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
+    "@types/node": "^20.2.5",
+    "@types/uuid": "^9.0.1",
     "eslint": "^8.36.0",
     "eslint-config-prettier": "^8.7.0",
     "nodemon": "^2.0.21",
     "prettier": "^2.8.4",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2"
-  },
-  "private": false
+  }
 }

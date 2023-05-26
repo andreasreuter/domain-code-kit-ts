@@ -1,0 +1,9 @@
+.vscode/
+.yarn/
+src/
+.editorconfig
+.eslintrc.json
+.prettierrc.json
+.yarnrc.yml
+nodemon.json
+tsconfig.*
