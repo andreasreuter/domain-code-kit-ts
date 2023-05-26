@@ -1,0 +1,10 @@
+{
+  "verbose": true,
+  "watch": [
+    "src"
+  ],
+  "ext": "ts",
+  "execMap": {
+    "ts": "yarn run build && yarn run ts-node"
+  }
+}

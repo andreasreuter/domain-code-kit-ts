@@ -1,0 +1,5 @@
+interface DomainService {
+  
+}
+
+export { DomainService }
