@@ -23,7 +23,7 @@ coverage
 # TypeScript
 typings/
 *.tsbuildinfo
-build/
+lib/
 
 # Optional eslint cache
 .eslintcache

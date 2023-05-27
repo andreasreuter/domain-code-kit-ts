@@ -1,6 +1,6 @@
 {
   "name": "domain-code-kit",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "Andreas Reuter <andireuter86@gmail.com> (https://www.andireuter.com)",
   "license": "MIT",
   "keywords": [
@@ -8,8 +8,8 @@
     "ddd"
   ],
   "packageManager": "yarn@3.5.0",
-  "main": "build/index.js",
-  "types": "build/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "yarn run tsc --build",
     "dev": "yarn run nodemon src/index.ts"
