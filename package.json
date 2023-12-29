@@ -16,7 +16,8 @@
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "yarn run tsc --build",
-    "dev": "yarn run nodemon src/index.ts"
+    "dev": "yarn run nodemon src/index.ts",
+    "publish": "yarn run build && npm publish"
   },
   "dependencies": {
     "express": "^4.18.2",
