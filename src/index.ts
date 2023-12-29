@@ -4,5 +4,6 @@ export {
   DomainService,
   Entity,
   UniqueEntityID,
-  ValueObject
+  ValueObject,
+  Result
 } from "./domain"
