@@ -31,3 +31,4 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![H
 
 - [Khalil Stemmler: Domain Driven Design](https://khalilstemmler.com/articles/categories/domain-driven-design)
 - [My Medium bookmarks](https://medium.com/@AndiReuter/list/domain-driven-design-b4ec21b36221)
+- [More Readability with Dependency Injection (TypeDI)](https://docs.typestack.community/typedi/v/develop/01-getting-started)
