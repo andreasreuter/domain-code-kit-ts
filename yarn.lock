@@ -5,6 +5,23 @@ __metadata:
   version: 6
   cacheKey: 8
 
+"@andireuter/domain-code-kit@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@andireuter/domain-code-kit@workspace:."
+  dependencies:
+    "@types/node": ^20.2.5
+    "@types/uuid": ^9.0.1
+    eslint: ^8.36.0
+    eslint-config-prettier: ^8.7.0
+    express: ^4.18.2
+    nodemon: ^2.0.21
+    prettier: ^2.8.4
+    ts-node: ^10.9.1
+    typescript: ^5.0.2
+    uuid: ^9.0.0
+  languageName: unknown
+  linkType: soft
+
 "@cspotcode/source-map-support@npm:^0.8.0":
   version: 0.8.1
   resolution: "@cspotcode/source-map-support@npm:0.8.1"
@@ -671,23 +688,6 @@ __metadata:
   checksum: fd7673ca77fe26cd5cba38d816bc72d641f500f1f9b25b83e8ce28827fe2da7ad583a8da26ab6af85f834138cf8dae9f69b0cd6ab925f52ddab1754db44d99ce
   languageName: node
   linkType: hard
-
-"domain-code-kit@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "domain-code-kit@workspace:."
-  dependencies:
-    "@types/node": ^20.2.5
-    "@types/uuid": ^9.0.1
-    eslint: ^8.36.0
-    eslint-config-prettier: ^8.7.0
-    express: ^4.18.2
-    nodemon: ^2.0.21
-    prettier: ^2.8.4
-    ts-node: ^10.9.1
-    typescript: ^5.0.2
-    uuid: ^9.0.0
-  languageName: unknown
-  linkType: soft
 
 "ee-first@npm:1.1.1":
   version: 1.1.1
