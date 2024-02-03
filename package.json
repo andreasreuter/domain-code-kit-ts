@@ -17,7 +17,7 @@
   "scripts": {
     "build": "yarn run tsc --build",
     "dev": "yarn run nodemon src/index.ts",
-    "publish": "npm publish"
+    "publish": "npm publish --access public"
   },
   "dependencies": {
     "express": "^4.18.2",
