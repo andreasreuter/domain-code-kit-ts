@@ -1,6 +1,6 @@
 {
   "name": "@andireuter/domain-code-kit",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "author": "Andreas Reuter <andireuter86@gmail.com> (https://www.andireuter.com)",
   "license": "MIT",
   "keywords": [
@@ -16,8 +16,7 @@
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "yarn run tsc --build",
-    "dev": "yarn run nodemon src/index.ts",
-    "publish": "npm publish --access public"
+    "dev": "yarn run nodemon src/index.ts"
   },
   "dependencies": {
     "express": "^4.18.2",
