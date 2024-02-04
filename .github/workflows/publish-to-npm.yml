@@ -20,7 +20,7 @@ jobs:
           scope: "@andireuter"
 
       - name: Install specific Yarn version
-        run: npm install -g yarn@3.8.0
+        run: npm install -g yarn
 
       - name: Install dependencies
         run: yarn install
