@@ -2,6 +2,8 @@
 
 With this incredible domain-driven design toolkit, you can easily start coding in TypeScript using these principles. I recommend to read further literature [Khalil Stemmler: Domain Driven Design](https://khalilstemmler.com/articles/categories/domain-driven-design) and my [Medium bookmarks](https://medium.com/@AndiReuter/list/domain-driven-design-b4ec21b36221).
 
+[![Publish package to npmjs](https://github.com/andreasreuter/domain-code-kit-ts/actions/workflows/publish-to-npm.yml/badge.svg)](https://github.com/andreasreuter/domain-code-kit-ts/actions/workflows/publish-to-npm.yml)
+
 # Welcome
 
 Hello 👋,
