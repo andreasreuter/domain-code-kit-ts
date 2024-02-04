@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/andreasreuter/domain-code-kit-ts.git"
   },
-  "packageManager": "yarn@3.5.0",
+  "packageManager": "yarn@3.8.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
